@@ -46,3 +46,9 @@ body{
     height: 20px;
     vertical-align: middle;
 }
+
+.cabecera .footer{
+    background-color: rgb(231, 231, 189);
+    color: rgb(16, 17, 19);
+    text-align: center;
+}
