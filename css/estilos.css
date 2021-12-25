@@ -39,3 +39,8 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+.footer{
+    background-color: rgb(231, 231, 189);
+    color: rgb(16, 17, 19);
+    text-align: center;
+}
