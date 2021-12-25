@@ -8,11 +8,12 @@ body{
 }
 
 .container{
+    margin: 20px 0 0 20px;
     width: 70%;
-    padding: 1em;
+    padding: 2em;
     text-align: left;
-    border: 3px solid blue;
-    margin: 0 auto;
+    border: 1px solid rgb(122, 122, 255);
+   
 }
 
 .container h1{
@@ -38,4 +39,10 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+.cabecera .logo {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
 }
