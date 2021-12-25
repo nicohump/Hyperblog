@@ -1,6 +1,5 @@
 body{
     color: darkslategrey;
-    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16 px;
     margin: 0;
@@ -34,21 +33,23 @@ body{
     padding: 0.5em;
 }
 
-.cabecera .tagline{
+.tagline{
 
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
 
-.cabecera .logo {
+.logo {
     width: 20px;
-    height: 20px;
+    height: 20px;   
     vertical-align: middle;
 }
 
-.cabecera .footer{
-    background-color: rgb(231, 231, 189);
-    color: rgb(16, 17, 19);
+.footer p{
+    background-color: rgb(26, 26, 18);
+    color: rgb(140, 141, 141);
     text-align: center;
+    font-size: large;
+    padding: 10px;
 }
